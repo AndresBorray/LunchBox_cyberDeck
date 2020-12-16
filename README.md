@@ -7,6 +7,7 @@ I've added  the STL/ OBJ files that I created so you can 3d Print yourself a Cyb
 Update (June 26, 2020): Well this is awesome...my build was featured on Hackaday! Thank you Kristina Panos for taking the time to write about it! Check out the write-up here! <https://hackaday.com/2020/06/09/lunchbox-cyberdeck-is-a-tasty-build/>
 
 
+![Lunchbox_cyberDeck](https://github.com/AndresBorray/LunchBox_cyberDeck/blob/main/LunchBox%20CyberDeck.png)
 _______________
 FAQ
 
